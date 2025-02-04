@@ -1,0 +1,1 @@
+This repository contains a Kotlin code snippet demonstrating common collection operations (map, filter, sum, average). While functional for small lists, it lacks error handling and may perform poorly on very large lists.  The `bugSolution.kt` file provides improvements for robustness and efficiency.
